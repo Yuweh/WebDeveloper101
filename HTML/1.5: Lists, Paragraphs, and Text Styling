@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+    <head> <title> Xi Learning - Learn for Free! </title> </head>
+
+    
+    <body>
+        
+        <h1> Welcome to Xi Learning! </h1>
+        <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Courses</a></li>
+        <li><a href="#">Contact Us</a></li>
+        </ul>
+        
+        <br>
+        <h4> So get started right now!</h4>
+        <p> If you want to learn how to code, then there is no <i>better</i> place than here. Xi Learning is a free web and mobile development learning platform that is <b>open </b> and <b>free</b> for all.</p>
+            
+        <br>
+        <p>Also, join our mailing list to get <em>awesome</em> updates from us! </p>   
+        
+    </body>
+
+</html>
