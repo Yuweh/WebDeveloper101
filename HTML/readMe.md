@@ -1,27 +1,4 @@
+# HTML
+---
 
-
-## 1.3
-
-<!DOCTYPE html>
-
-<html> 
-
-<head> <title>  </title> </head>
-
-<body>
-
-<p></p>
-
-<br>
-
-<hr>
-
-<b></b>
-
-<i> </i>
-
-<em> </em>
-
-</body>
-
-</html>
+Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web - Wikipedia
