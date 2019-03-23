@@ -7,17 +7,16 @@
 
 ![](https://i.imgur.com/OZUOUtI.png)
 
-W E B D E V E L O P M E N T
-F U N D A M E N T A L S
-Understand how websites work and how HTML, CSS and
-JavaScript contribute.
-Understand how the internet works.
-Start coding with HTML, CSS, and JavaScript.
-Learn and understand git, GitHub and version control.
-Use the Unix command line to become a power user and
-write bash commands.
-Learn key troubleshooting and debugging skills to apply to
-your projects.
+### W E B D E V E L O P M E N T   F U N D A M E N T A L S
+
+- [ ] Understand how websites work and how HTML, CSS and
+- [ ] JavaScript contribute.
+- [ ] Understand how the internet works.
+- [ ] Start coding with HTML, CSS, and JavaScript.
+- [ ] Learn and understand git, GitHub and version control.
+- [ ] Use the Unix command line to become a power user and
+- [ ] write bash commands.
+- [ ] Learn key troubleshooting and debugging skills to apply to your projects.
 
 ## 🎨 Frontend Roadmap
 
